@@ -1,5 +1,5 @@
-import task_list.py
-import output.py
+from modules import task_list
+from modules import output
 
 
 def print_menu():
