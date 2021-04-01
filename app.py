@@ -1,3 +1,7 @@
+import task_list.py
+import output.py
+
+
 def print_menu():
     print("Options:")
     print("1: Display All Tasks")
